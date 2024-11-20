@@ -1,4 +1,6 @@
 # C++ objects and libs
+/build
+*/build
 *.slo
 *.lo
 *.o
@@ -47,6 +49,7 @@ CMakeLists.txt.user*
 
 # QtCreator 4.8< compilation database
 compile_commands.json
+*.idx
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
